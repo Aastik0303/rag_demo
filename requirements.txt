@@ -7,7 +7,7 @@ langchain-huggingface==0.0.1
 pandas==2.2.0
 matplotlib==3.8.2
 seaborn==0.13.2
-pypdf==4.0.1
-faiss-cpu==1.7.4
-sentence-transformers==2.3.1
-huggingface-hub==0.20.3
+pypdf
+faiss-cpu
+sentence-transformers
+huggingface-hub
